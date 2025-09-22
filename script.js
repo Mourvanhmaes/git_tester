@@ -9,12 +9,12 @@ const pokemons = [
         img: "pikachu.png"
     },
     {
-    nome: "Charizard",
-    id: 6,
-    tipo: ["fogo", "voador"],
-    ht: 1.7,
-    wh: 90.5,    
-    habilidades: ["blaze", "solar-power"],
-    img: "charizard.png"
-}
+        nome: "Charizard",
+        id: 6,
+        tipo: ["fogo", "voador"],
+        ht: 1.7,
+        wh: 90.5,    
+        habilidades: ["blaze", "solar-power"],
+        img: "charizard.png"
+    }
 ]
